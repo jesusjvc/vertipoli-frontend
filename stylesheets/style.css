@@ -1425,6 +1425,7 @@ ul.flat-unstyled li > ul > li > a {
   line-height: 1;
   position: relative;
   z-index: 8;
+  word-spacing: normal;
 }
 #mainnav ul.menu > li > a:after {
   content: '';

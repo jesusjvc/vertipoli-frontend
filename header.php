@@ -964,7 +964,7 @@
 										</li>
 										
 								        <li class="column-1">
-								            <a href="registro.php" title="">Registrarme</a>
+								            <a href="my-account.php" title="">Mi cuenta</a>
                                             <ul class="submenu">
                                                 <li>
                                                     <a href="my-account.php" title="">Mi cuenta</a>

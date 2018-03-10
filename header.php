@@ -960,7 +960,7 @@
 										</li><!-- /.column-1 -->
 														
 								        <li class="column-1">
-											<a href="#" title="">Ayuda</a>
+											<a href="ayuda.php" title="">Ayuda</a>
 										</li>
 										
 								        <li class="column-1">

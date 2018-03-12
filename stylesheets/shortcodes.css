@@ -5497,11 +5497,16 @@ table.product thead tr th:last-child {
   margin-bottom: 81px;
 }
 .term-conditions .text-wrap h3 {
-  margin-bottom: 28px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 .term-conditions .text-wrap p {
   color: #919191;
   padding-right: 100px;
+}
+.term-conditions .text-wrap h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 /* Flat Map
 -------------------------------------------------------------- */

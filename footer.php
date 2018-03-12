@@ -91,7 +91,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p class="copyright">Todos los derechos reservador© Vertipoli 2018</p>
+                <p class="copyright"> <a href="aviso-privacidad.php">Aviso de Privacidad</a> | Todos los derechos reservados© Vertipoli 2018</p>
             </div>
             <!-- /.col-md-12 -->
         </div>

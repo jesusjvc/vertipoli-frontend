@@ -960,11 +960,11 @@
 										</li><!-- /.column-1 -->
 														
 								        <li class="column-1">
-											<a href="#" title="">Ayuda</a>
+											<a href="ayuda.php" title="">Ayuda</a>
 										</li>
 										
 								        <li class="column-1">
-								            <a href="registro.php" title="">Registrarme</a>
+								            <a href="my-account.php" title="">Mi cuenta</a>
                                             <ul class="submenu">
                                                 <li>
                                                     <a href="my-account.php" title="">Mi cuenta</a>

@@ -6,7 +6,7 @@
 	<!-- Basic Page Needs -->
 	<meta charset="UTF-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-	<title>Techno Store - Terms and Conditions</title>
+	<title>Aviso de privacidad</title>
 
 	<meta name="author" content="CreativeLayers">
 

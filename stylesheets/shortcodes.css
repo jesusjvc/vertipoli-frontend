@@ -5603,6 +5603,8 @@ table.product thead tr th:last-child {
 }
 #form-contact .form-box label {
   margin-bottom: 12px;
+  text-align: left;
+  width: 100%;
 }
 #form-contact .form-box input {
   height: 40px;

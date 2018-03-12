@@ -94,9 +94,7 @@
 										</td>
 										<td>
 											<div class="quanlity">
-												<span class="btn-down"></span>
-												<input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-												<span class="btn-up"></span>
+											  <input type="number" name="cantidad" value="1" min="1" max="100" placeholder="Cantidad" required>	
 											</div>
 										</td>
 										<td>
@@ -125,9 +123,7 @@
 										</td>
 										<td>
 											<div class="quanlity">
-												<span class="btn-down"></span>
-												<input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-												<span class="btn-up"></span>
+											  <input type="number" name="cantidad" value="1" min="1" max="100" placeholder="Cantidad" required>	
 											</div>
 										</td>
 										<td>

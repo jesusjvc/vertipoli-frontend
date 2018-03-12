@@ -140,9 +140,7 @@
 										</select>
 									</div>
 									<div class="quanlity">
-										<span class="btn-down"></span>
-										<input type="number" name="number" value="" min="1" max="100" placeholder="Quanlity">
-										<span class="btn-up"></span>
+										<input type="number" name="cantidad" value="1" min="1" max="100" placeholder="Cantidad" required>	
 									</div>
 								</div><!-- /.quanlity-box -->
 								<div class="box-cart style2">

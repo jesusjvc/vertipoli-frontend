@@ -45,16 +45,12 @@
 					<div class="col-md-12">
 						<ul class="breadcrumbs">
 							<li class="trail-item">
-								<a href="#" title="">Home</a>
+								<a href="#" title="">Inicio</a>
 								<span><img src="images/icons/arrow-right.png" alt=""></span>
 							</li>
 							<li class="trail-item">
-								<a href="#" title="">Shop</a>
-								<span><img src="images/icons/arrow-right.png" alt=""></span>
-							</li>
-							<li class="trail-end">
-								<a href="#" title="">Smartphones</a>
-							</li>
+								<a href="#" title="">Tienda</a>
+							</li>					
 						</ul><!-- /.breacrumbs -->
 					</div><!-- /.col-md-12 -->
 				</div><!-- /.row -->
@@ -70,14 +66,14 @@
 						<div class="wrap-error center">
 							<div class="header-error">
 								<img src="images/banner_boxes/error.png" alt="">
-								<h1>Lo sentimos, no se puede localizar la página que está buscando.</h1>
-								<p>Porfavor revise que la dirección URL esté escrita correctamente o utilize el buscador</p>
+								<h1>Lo sentimos, no se puede localizar la página que estás buscando.</h1>
+								<p>Porfavor revisa que la dirección URL esté escrita correctamente o utilize el buscador</p>
 							</div><!-- /.header-error -->
 							<div class="content-error">
 								<div class="form-search-error">
 									<form action="#" method="get" accept-charset="utf-8">
 										<div class="search-input">
-											<input type="text" name="search" placeholder="¿Encontrar qué?">
+											<input type="text" name="search" placeholder="Buscar productos, marcas y más">
 											<button type="submit">Buscar</button>
 										</div>
 									</form>

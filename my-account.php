@@ -54,7 +54,6 @@
                             </li>
                             <li class="trail-item">
                                 <a href="#" title="">Mi cuenta</a>
-                                <span><img src="images/icons/arrow-right.png" alt=""></span>
                             </li>
 
                         </ul>

@@ -6060,12 +6060,14 @@ table.product thead tr th:last-child {
 	padding-bottom:5px;
 }
 
-.order-tracking {
+.order-tracking,
+.order-details{
 	background-color:#fff;
 	border-radius:10px;
-	padding:120px 90px 116px;
+	padding:50px 90px 116px;
 	text-align:center;
 	box-shadow:0px 2px 3px 0px rgba(234, 234, 234, 1);
+    margin-bottom: 50px;
 }
 
 .order-tracking .title {
@@ -6127,32 +6129,44 @@ table.product thead tr th:last-child {
 	margin-bottom:20px;
 }
 
-.table-wishlist {
+.table-wishlist, 
+.table-orders,
+.table-details{
 	width:100%;
 	overflow:hidden;
 }
 
-.table-wishlist thead {
+.table-wishlist thead, 
+.table-orders thead,
+.table-details thead{
 	border-bottom:1px solid #e5e5e5;
 }
 
-.table-wishlist thead tr th {
+.table-wishlist thead tr th,
+.table-orders thead tr th,
+.table-details thead tr th{
 	padding:17px 0 18px;
 	font-size:14px;
 	color:#484848;
 }
 
-.table-wishlist thead tr th:first-child {
+.table-wishlist thead tr th:first-child,
+.table-orders thead tr th:first-child,
+.table-details thead tr th:first-child{
 	font-size:13px;
 	letter-spacing:-0.3px;
 }
 
-.table-wishlist tbody tr td {
+.table-wishlist tbody tr td,
+.table-orders tbody tr td,
+.table-details tbody tr td{
 	padding:38px 0 45px;
 	vertical-align:middle;
 }
 
-.table-wishlist tbody tr:last-child td {
+.table-wishlist tbody tr:last-child td,
+.table-orders tbody tr:last-child td,
+.table-details tbody tr:last-child td{
 	padding:34px 0 41px;
 }
 
@@ -6173,7 +6187,9 @@ table.product thead tr th:last-child {
 }
 
 .table-wishlist tbody tr td > div.delete,
-.table-wishlist tbody tr td > div.product {
+.table-wishlist tbody tr td > div.product,
+.table-orders tbody tr td > div.product,
+.table-details tbody tr td > div.product{
 	display:inline-block;
 }
 
@@ -6181,12 +6197,16 @@ table.product thead tr th:last-child {
 	margin-right:84px;
 }
 
-.table-wishlist tbody tr td > div.product .image {
+.table-wishlist tbody tr td > div.product .image,
+.table-orders tbody tr td > div.product .image,
+.table-details tbody tr td > div.product .image{
 	width:85px;
 	display:inline-block;
 }
 
-.table-wishlist tbody tr td > div.product .name {
+.table-wishlist tbody tr td > div.product .name,
+.table-orders tbody tr td > div.product .date,
+.table-details tbody tr td > div.product .name{
 	display:inline-block;
 	vertical-align:middle;
 	font-size:15px;
@@ -6194,7 +6214,10 @@ table.product thead tr th:last-child {
 	margin-left:24px;
 }
 
-.table-wishlist tbody tr td > div.price {
+.table-wishlist tbody tr td > div.price,
+.table-orders tbody tr td > div.price,
+.table-details tbody tr td > div.price,
+.table-details tfoot tr th > div.price{
 	color:#f28b00;
 	font-size:20px;
 	font-family:'BloggerSans';
@@ -6205,7 +6228,8 @@ table.product thead tr th:last-child {
 	margin-top:-5px;
 }
 
-.table-wishlist tbody tr td > div.status-product span {
+.table-wishlist tbody tr td > div.status-product span,
+.table-orders tbody tr td > div.status-order span{
 	padding:0 17px;
 	height:25px;
 	line-height:25px;
@@ -6215,6 +6239,16 @@ table.product thead tr th:last-child {
 	font-weight:600;
 	border-radius:15px;
 	display:inline-block;
+    &.complete {
+        background-color: darkgreen;
+    }
+    
+    &.delivering {
+        background-color: #ff7600;
+    }
+     &.cancel {
+        background-color: grey;
+    }
 }
 
 .table-wishlist tbody tr td > div.add-cart a {
@@ -6267,6 +6301,19 @@ table.product thead tr th:last-child {
 
 .table-wishlist tbody tr td > div.add-cart a:hover img {
 	background-origin:0 -32px;
+}
+
+/* Ajustes adicionales de la tabla de detalles */
+
+.table-details{
+    
+    tfoot{
+        font-size: 1.2em;
+        font-weight: bold;
+        th{
+            padding: 10px 0px;
+        }
+    }
 }
 
 /* Flat Compare

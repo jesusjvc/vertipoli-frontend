@@ -45,7 +45,7 @@
 .owl-theme .owl-controls .owl-nav div:hover{color:#000;}
 .owl-theme .owl-controls .owl-nav div.owl-prev{position:absolute;left:0;top:50%;margin-top:-40px;}
 .owl-theme .owl-controls .owl-nav div.owl-prev:before,
-.owl-theme .owl-controls .owl-nav div.owl-next:before{font-family:FontAwesome;font-size:15px;color:#e5e5e5;-webkit-transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out;}
+.owl-theme .owl-controls .owl-nav div.owl-next:before{font-family:FontAwesome;font-size:15px;color:#000;-webkit-transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out;}
 .owl-theme .owl-controls .owl-nav div.owl-prev:before{content:'\f177';}
 .owl-theme .owl-controls .owl-nav div.owl-prev:hover:before,
 .owl-theme .owl-controls .owl-nav div.owl-next:hover:before{color:#484848;}

@@ -73,7 +73,7 @@
                     </li>
 
                     <li>
-                        <a href="#" title="">
+                        <a href="https://plus.google.com/101160023284949390756" title="">
 										<i class="fa fa-google" aria-hidden="true"></i>
 									</a>
                     </li>

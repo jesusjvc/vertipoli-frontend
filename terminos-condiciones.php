@@ -6,7 +6,7 @@
 	<!-- Basic Page Needs -->
 	<meta charset="UTF-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-	<title>Aviso de privacidad</title>
+	<title>Términos y Condiciones</title>
 
 	<meta name="author" content="CreativeLayers">
 
@@ -352,110 +352,110 @@
 								 
 							<ol type="1">
 									<li>
-										<h2>1. <u>Bebidas alcohólicas</u></h2>	
+										<p>1. <u>Bebidas alcohólicas</u></p>	
 									</li>
 									<li>
-										<h2>2. <u>Armas de fuego cualquier calibre así como sus accesorios Balas, explosivos, etc.</u></h2>	
+										<p>2. <u>Armas de fuego cualquier calibre así como sus accesorios Balas, explosivos, etc.</u></p>	
 									</li>
 									<li>
-										<h2>3. <u>Cigarros</u></h2>	
+										<p>3. <u>Cigarros</u></p>	
 									
 									</li>
 									<li>
-										<h2>4. <u>Tabacos</u></h2>	
+										<p>4. <u>Tabacos</u></p>	
 									
 									</li>
 									<li>
-										<h2>5. <u>Habanos</u></h2>	
+										<p>5. <u>Habanos</u></p>	
 										
 									</li>
 									<li>
-										<h2>6. <u>Celulares robados o clonados</u></h2>	
+										<p>6. <u>Celulares robados o clonados</u></p>	
 										
 									</li>
 									<li>
-										<h2>7. <u>Cualquier aparato robado</u></h2>	
+										<p>7. <u>Cualquier aparato robado</u></p>	
 										
 									</li>
 									<li>
-										<h2>8. <u>Servicios para modificar algún aparato electrónico (Ejemplo celulares, consolas, etc..)</u></h2>	
+										<p>8. <u>Servicios para modificar algún aparato electrónico (Ejemplo celulares, consolas, etc..)</u></p>	
 									
 									</li>
 									<li>
-										<h2>9. <u>Servicios para obtener códigos o desbloquear</u></h2>	
+										<p>9. <u>Servicios para obtener códigos o desbloquear</u></p>	
 										
 									</li>
 									<li>
-										<h2>1. <u>Softwares no originales</u></h2>	
+										<p>10. <u>Softwares no originales</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Cualquier droga</u></h2>	
+										<p>11. <u>Cualquier droga</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Alucinógenos</u></h2>	
+										<p>12. <u>Alucinógenos</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Estupefacientes o algún otra sustancia prohibida por la ley</u></h2>	
+										<p>13. <u>Estupefacientes o algún otra sustancia prohibida por la ley</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Cualquier medicamento</u></h2>	
+										<p>14. <u>Cualquier medicamento</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Anabólicos o esteroides</u></h2>	
+										<p>15. <u>Anabólicos o esteroides</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Seres humanos</u></h2>	
+										<p>16. <u>Seres humanos</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Órganos o todo lo relacionado al cuerpo humano</u></h2>	
+										<p>17. <u>Órganos o todo lo relacionado al cuerpo humano</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Cualquier animal</u></h2>	
+										<p>18. <u>Cualquier animal</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Pieles en peligro de extinción</u></h2>	
+										<p>19. <u>Pieles en peligro de extinción</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Marfil</u></h2>	
+										<p>20. <u>Marfil</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Flora en peligro de extinción</u></h2>	
+										<p>21. <u>Flora en peligro de extinción</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Fuegos artificiales</u></h2>	
+										<p>22. <u>Fuegos artificiales</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Prestamos de dinero</u></h2>	
+										<p>23. <u>Prestamos de dinero</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Acciones</u></h2>	
+										<p>24. <u>Acciones</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Bonos</u></h2>	
+										<p>25. <u>Bonos</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Terminales de pago</u></h2>	
+										<p>26. <u>Terminales de pago</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Cajeros o partes</u></h2>	
+										<p>27. <u>Cajeros o partes</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Bases de datos</u></h2>	
+										<p>28. <u>Bases de datos</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>productos que inciten la violencia</u></h2>	
+										<p>29. <u>productos que inciten la violencia</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Objetos considerados patrimonio histórico, cultural, arqueológico y paleontológico.</u></h2>	
+										<p>30. <u>Objetos considerados patrimonio histórico, cultural, arqueológico y paleontológico.</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Rifas</u></h2>	
+										<p>31. <u>Rifas</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Lotería</u></h2>	
+										<p>32. <u>Lotería</u></p>	
 									</li>
 									<li>
-										<h2>1. <u>Seguros</u></h2>	
+										<p>33. <u>Seguros</u></p>	
 									</li>
 							</ol>
 							

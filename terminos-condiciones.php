@@ -49,7 +49,7 @@
 								<span><img src="images/icons/arrow-right.png" alt=""></span>
 							</li>
 							<li class="trail-end">
-								<a href="#" title="">Aviso de Privacidad</a>
+								<a href="#" title="">Términos y Condiciones</a>
 							</li>
 						</ul><!-- /.breacrumbs -->
 					</div><!-- /.col-md-12 -->

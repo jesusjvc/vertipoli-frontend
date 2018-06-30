@@ -969,12 +969,16 @@
 
         var popup = function() {
             $('.popup-newsletter').each( function() {
+                $(this).show(400);
+                $(this).addClass('mostrar');
+                
                 $(this).closest('.boxed').children('.overlay').css({
                     opacity: '1',
                     display: 'block',
                     zIndex: '89999'
                 });
-                $(".popup span" ).on('click', function() {
+                
+                $(".popup span, .cerrar" ).on('click', function() {
                     $(this).closest('.popup-newsletter').hide(400);
                     $(this).closest('.boxed').children('.overlay').css({
                         opacity: '0',
@@ -1275,9 +1279,14 @@
         googleMap();
         googleMap_s2();
         goTop();
-        popup();
+        //popup();
         zoomImage();
         removePreloader();
     });
+    
+    $('#alianza').click(function(e){
+        e.preventDefault();      
+        popup();
+    })
 
 })(jQuery);

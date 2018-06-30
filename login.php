@@ -156,7 +156,7 @@
                                     
                                     <div class="form-group row">                                       
                                        <div class="custom-file">
-                                          <input type="file" class="custom-file-input" id="customFileLang" lang="es">
+                                          <input type="file" class="custom-file-input" id="input-foto" lang="es">
                                           <label class="custom-file-label" for="customFileLang">Fotografía</label>
                                         </div>
                                     </div>
@@ -253,6 +253,10 @@
                 chShipBlock.find('input').attr('required', false);
             }
         });
+        
+        $('#input-foto').click(function() {
+  alert( "Handler for .click() called." );
+});
 
     </script>
 

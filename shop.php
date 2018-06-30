@@ -504,7 +504,7 @@
 														<a href="#" title="">Cameras</a>
 													</div>
 													<div class="product-name">
-														<a href="#" title="">Apple iPad Air 2 32GB 9.7"<br />Tablet</a>
+														<a href="#" title="">Apple iPad Air Lenta<br />Tablet</a>
 													</div>
 													<div class="status">
 														Dispnibilidad: En exsitencia
@@ -719,7 +719,7 @@
 															<a href="#" title="">Cameras</a>
 														</div>
 														<div class="product-name">
-															<a href="#" title="">New X5C-1 2.4Ghz Gyro<br />RC Quadcopter Drone</a>
+															<a href="#" title="">Sopa X5C-1 2.4Ghz Gyro<br />RC Quadcopter Drone</a>
 														</div>
 														<div class="price">
 															<span class="sale">$2,009.00</span>

@@ -3039,6 +3039,75 @@ ol.comment-list li.comment .comment-text .comment-content p {
 .order-details table div.price {
   text-align: right;
 }
+.flex {
+  display: flex;
+}
+.boxed > .overlay {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 909;
+  opacity: 0;
+  display: none;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.boxed > .overlay.show {
+  opacity: 1;
+  display: block;
+}
+.popup-newsletter {
+  opacity: 0;
+  display: none;
+}
+.popup-newsletter.mostrar {
+  opacity: 1;
+}
+.popup-newsletter form {
+  margin: 20px 0;
+}
+.popup-newsletter .flex .columna {
+  margin: 0 20px 0 0px;
+}
+/* Ficha de producto
+-------------------------------------------------------------- */
+.info-tienda {
+  border-top: 2px solid #00b2e2;
+  border-bottom: 2px solid #00b2e2;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.info-tienda h2 {
+  margin: 20px 0;
+}
+.info-tienda .vendedor img {
+  max-width: 120px;
+}
+.info-tienda .rate h3 {
+  font-size: 4em;
+  color: #000;
+}
+.info-tienda .rate .queue-box {
+  margin: 0;
+}
+.info-tienda .distintivos ul li {
+  width: 50%;
+}
+.info-tienda .distintivos ul li img {
+  max-width: 80px;
+}
+.info-tienda .distintivos ul li small {
+  color: #000;
+  display: block;
+}
 footer #redes .social-list {
   margin-top: 30px;
   display: flex;

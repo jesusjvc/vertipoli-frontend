@@ -1287,7 +1287,7 @@
 					<div class="col-md-12">
 						<div class="owl-carousel-3 style3">
 							<div class="imagebox style4">
-								<div class="box-image">
+								<div class="box-image alianza">
 									<a href="#" title="">
 										<img src="images/product/other/09.jpg" alt="">
 									</a>

@@ -3078,7 +3078,7 @@ ol.comment-list li.comment .comment-text .comment-content p {
 }
 /*Thumb del producto*/
 .box-image.alianza.box-image::before {
-  background: url(../images/icons/hand-shake.svg) no-repeat #0036ae;
+  background: url(../images/icons/hand-shake.svg) no-repeat;
   background-size: 30px 30px;
   content: "";
   display: inline-block;

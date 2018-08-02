@@ -494,7 +494,7 @@
 									<div class="sort-box">
 										<div class="product-box style3">
 											<div class="imagebox style1 v3">
-												<div class="box-image">
+												<div class="box-image alianza">
 													<a href="#" title="">
 														<img src="images/product/other/s02.jpg" alt="">
 													</a>
@@ -506,8 +506,8 @@
 													<div class="product-name">
 														<a href="#" title="">Apple iPad Air Lenta<br />Tablet</a>
 													</div>
-													<div class="status">
-														Dispnibilidad: En exsitencia
+													<div class="status nuevo">
+														Nuevo
 													</div>
 													<div class="info">
 														<p>

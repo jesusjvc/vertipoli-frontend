@@ -3076,6 +3076,24 @@ ol.comment-list li.comment .comment-text .comment-content p {
 .popup-newsletter .flex .columna {
   margin: 0 20px 0 0px;
 }
+/*Thumb del producto*/
+.box-image.alianza.box-image::before {
+  background: url(../images/icons/hand-shake.svg) no-repeat #0036ae;
+  background-size: 30px 30px;
+  content: "";
+  display: inline-block;
+  position: absolute;
+  z-index: 2;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+}
+.imagebox.style1.v3 .box-content .status.nuevo {
+  color: #fff;
+  background: #00b2e2;
+  padding: 2px 15px;
+  display: inline-block;
+}
 /* Ficha de producto
 -------------------------------------------------------------- */
 .info-tienda {

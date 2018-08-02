@@ -3502,6 +3502,29 @@ ol.comment-list li.comment .comment-text .comment-content p {
     }
 }
 
+/*Thumb del producto*/
+.box-image{
+    &.alianza&::before{
+        background: url(../images/icons/hand-shake.svg) no-repeat @azul-fuerte;
+        background-size: 30px 30px;
+        content:"";
+        display: inline-block;
+        position: absolute;
+        z-index: 2;
+        left: 10px;
+        width: 30px;
+        height: 30px;   
+    }
+}
+
+.imagebox.style1.v3 .box-content .status{
+    &.nuevo{
+        color: #fff;
+        background: @azul-claro;
+        padding: 2px 15px;
+        display: inline-block;
+    }
+}
 /* Ficha de producto
 -------------------------------------------------------------- */
 .info-tienda{

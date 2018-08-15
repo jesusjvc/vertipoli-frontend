@@ -27,7 +27,7 @@
                             <img src="images/icons/compra-protegida.png" alt="Compra protegida">
                         </div>
                         <div class="box-title">
-                            <h3>Tu compra protegida</h3>
+                            <h3>Comprando seguro</h3>
                             <p>Con nosotros tienes la tranquilidad de que tu compra llegará a tiempo y segura.</p>
                         </div>
                         <div class="clearfix"></div>
@@ -41,7 +41,7 @@
                 <div class="iconbox style1">
                     <div class="box-header">
                         <div class="image">
-                            <img src="images/icons/ayuda.png" alt="Soporte técnico">
+                            <img src="images/icons/question.svg" alt="Soporte técnico">
                         </div>
                         <div class="box-title">
                             <h3>¿Necesitas ayuda?</h3>
@@ -91,7 +91,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p class="copyright"> <a href="aviso-privacidad.php">Aviso de Privacidad</a> | <a href="terminos-condiciones.php">Términos y Condiciones</a>| Todos los derechos reservados© Vertipoli 2018</p>
+                <p class="copyright">
+                <a href="#">Colabora con nosotros</a> | <a href="#">Atención a clientes</a> |
+                  <a href="aviso-privacidad.php">Aviso de Privacidad</a> | <a href="terminos-condiciones.php">Términos y Condiciones</a>| Todos los derechos reservados© Vertipoli 2018</p>
             </div>
             <!-- /.col-md-12 -->
         </div>
